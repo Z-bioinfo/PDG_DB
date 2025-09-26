@@ -1,0 +1,30 @@
+Abbreviation	Plastic name	Backbone Type (L2)	Polymer Family (L3)	Polymer Family (L3.1)	Sub-family (L4)	Degradability	Feedstock
+DBP	di-n-butyl phthalate	Plasticizer	Plasticizer	Plasticizer	NA (Plasticizer not a polymer)	Non-degradable	Petroleum-based
+DIBP	Diisobutyl phalate	Plasticizer	Plasticizer	Plasticizer	NA (Plasticizer not a polymer)	Non-degradable	Petroleum-based
+PAE	Phthalate	Plasticizer	Plasticizer	Plasticizer	NA (Plasticizer not a polymer)	Non-degradable	Petroleum-based
+NR	Natural rubber	C-C backbone	Vinyl polymers	Vinyl polymers	(Unsaturated side group)	Biodegradable​​	Bio-based​​
+PA	Polyamide	C-X backbone	Polyamide	Polyamide	(Nylon)	Non-degradable	Petroleum-based
+PBAT	Polybutylene adipate terephthalate	C-X backbone	Polyester	Aromatic polyester	Aromatic polyester	Biodegradable​​	Petroleum-based
+PBS	Polybutylene succinate	C-X backbone	Polyester	Aliphatic polyester (Fossil fuel-origin)	Fossil fuel-origin	Biodegradable​​	Petroleum-based
+PBSA	Poly-butylene succinate-co-adipate	C-X backbone	Polyester	Aliphatic polyester (Fossil fuel-origin)	Fossil fuel-origin	Biodegradable​​	Petroleum-based
+PCL	Polycaprolactone	C-X backbone	Polyester	Aliphatic polyester (Fossil fuel-origin)	Fossil fuel-origin	Biodegradable​​	Petroleum-based
+PE	Polyethylene	C-C backbone	Vinyl polymers	Vinyl polymers	Saturated side group	Non-degradable	Petroleum-based
+PEA	Poly(ethylene adipate)	C-X backbone	Polyester	Aliphatic polyester (Fossil fuel-origin)	Fossil fuel-origin	Biodegradable​​	Petroleum-based
+PEG	Polyethylene glycol	C-X backbone	Polyether	Polyether		Non-degradable	Petroleum-based
+PES	Polyethylene succinate	C-X backbone	Polyester	Aliphatic polyester (Fossil fuel-origin)	Fossil fuel-origin	Biodegradable​​	Petroleum-based
+PET	Polyethylene terephthalate	C-X backbone	Polyester	Aromatic polyester	Aromatic Polyester	Non-degradable	Petroleum-based
+PHAs	Polyhydroxyalkanoates	C-X backbone	Polyester	Aliphatic polyester (Bio-origin)	Bio-origin	Biodegradable​​	Bio-based​​
+PHB	Poly(3-hydroxybutyrate)	C-X backbone	Polyester	Aliphatic polyester (Bio-origin)	Bio-origin	Biodegradable​​	Bio-based​​
+PHBV	Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)	C-X backbone	Polyester	Aliphatic polyester (Bio-origin)	Bio-origin	Biodegradable​​	Bio-based​​
+PHPV	NA	C-X backbone	Polyester	Aliphatic polyester (Bio-origin)	Bio-origin	Biodegradable​​	Bio-based​​
+PHV	NA	C-X backbone	Polyester	Aliphatic polyester (Bio-origin)	Bio-origin	Biodegradable​​	Bio-based​​
+PLA	Polylactic acid	C-X backbone	Polyester	Aliphatic polyester (Bio-origin)	Bio-origin	Biodegradable​​	Bio-based​​
+PLGA	Poly(d,l-lactide-co-glycolide)	C-X backbone	Polyester	Aliphatic polyester (Bio-origin)	Bio-origin	Biodegradable​​	Bio-based​​
+PMCL	Poly(γ-methyl-ε-caprolactone)	C-X backbone	Polyester	Aliphatic polyester (Fossil fuel-origin)	Fossil fuel-origin	Biodegradable​​	Petroleum-based
+PP	Polypropylene	C-C backbone	Vinyl polymers	Vinyl polymers	Saturated side group	Non-degradable	Petroleum-based
+PPL	Polypropiolactone	C-X backbone	Polyester	Aliphatic polyester (Fossil fuel-origin)	Fossil fuel-origin	Biodegradable​​	Petroleum-based
+PS	Polystyrene	C-C backbone	Vinyl polymers	Vinyl polymers	(Unsaturated side group)	Non-degradable	Petroleum-based
+PU	Polyurethane	C-X backbone	Polyurethane	Polyurethane		Non-degradable	Petroleum-based
+PVA	Poly(vinyl alcohol)	C-C backbone	Vinyl polymers	Vinyl polymers	(Unsaturated side group)	Biodegradable​​	Petroleum-based
+PVC	Polyvinylchloride	C-C backbone	Vinyl polymers	Vinyl polymers	(Unsaturated side group)	Non-degradable	Petroleum-based
+TP	Terephthalate	Other (Monomer of PET)	Other (Monomer of PET)	Other (Monomer of PET)	NA	Non-degradable	Petroleum-based
