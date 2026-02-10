@@ -38,7 +38,7 @@ diamond makedb --in PDG_DB_protein.faa --db pdg_db_diamond --threads 8
 diamond blastp --db pdg_db_diamond --query input.fasta --out results.tsv --threads 8 --evalue 1e-5
 
 **`PDG_DB Blast Results Organization and Annotation Reference Script`** 
-PDG_DB_blast_results_plot.R
+PDG_DB_BLAST_annotation_pipeline.R
 
 **`Automated Alignment and Data Processing Script`** 
 
