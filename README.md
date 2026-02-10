@@ -30,12 +30,16 @@ FASTA format file containing 3,612 non-redundant predicted plastic-degrading gen
 Substrate classification file for the predicted PDGs. Contains the plastic type assignments and functional annotations for the computationally identified plastic-degrading gene candidates.
 
 ### Usage of the Database
+
 **`build the database`** 
 diamond makedb --in PDG_DB_protein.faa --db pdg_db_diamond --threads 8
+
 **`Blastp search`** 
 diamond blastp --db pdg_db_diamond --query input.fasta --out results.tsv --threads 8 --evalue 1e-5
+
 **`PDG_DB Blast Results Organization and Annotation Reference Script`** 
 PDG_DB_blast_results_plot.R
+
 **`Automated Alignment and Data Processing Script`** 
 pdg_db_diamond_analysis.sh
 
