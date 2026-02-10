@@ -41,7 +41,8 @@ diamond blastp --db pdg_db_diamond --query input.fasta --out results.tsv --threa
 PDG_DB_blast_results_plot.R
 
 **`Automated Alignment and Data Processing Script`** 
-pdg_db_diamond_analysis.sh
+chmod +x pdg_db_diamond_analysis.sh
+./pdg_db_diamond_analysis.sh your_sequences.fasta
 
 ## Citation
 If you use PDG_DB in your research, please cite: [https://github.com/Z-bioinfo/PDG_DB]
