@@ -46,6 +46,7 @@ chmod +x pdg_db_diamond_analysis.sh
 
 ./pdg_db_diamond_analysis.sh your_sequences.fasta
 
+
 ## Citation
 If you use PDG_DB in your research, please cite: [https://github.com/Z-bioinfo/PDG_DB]
 
