@@ -48,7 +48,7 @@ chmod +x pdg_db_diamond_analysis.sh
 
 
 ## Citation
-If you use PDG_DB in your research, please cite: [https://github.com/Z-bioinfo/PDG_DB]
+If you use PDG_DB in your research, please cite: [Zhang, J., Zhang, Z., Shen, Z., Yu, Z., Chen, J., Zeng, L., Li, D., Yan, X., Li, B. and Wong, J.W.C.  2026.  PDG_DB: A comprehensive database unveils environmental distribution patterns of plastic-degrading genes via large-scale multi-omic data analysis. Water Research, 125619. doi: https://doi.org/10.1016/j.watres.2026.125619.]
 
 ## Contact
-For questions or issues, please contact: [zhangjiayu@dgut.edu.cn (Jiayu Zhang)]
+We welcome contributions of the latest PDG sequences to supplement the database. For questions or issues, please contact: [zhangjiayu@dgut.edu.cn (Jiayu Zhang)]
